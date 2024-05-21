@@ -1,4 +1,4 @@
-### Welcome to the culmination of our Applied Cryptography journey: Our Final Project.
+### Welcome to our Applied Cryptography Final Project.
 
 Developed by:
 
