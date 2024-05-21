@@ -1,7 +1,12 @@
-# Welcome to streamlit
+### Welcome to the culmination of our Applied Cryptography journey: Our Final Project.
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+Developed by:
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+  * Jeland O. Albonial
+  
+  * Paolo L. Espion
+  
+  * Adrian James Relles
+
 
 Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
