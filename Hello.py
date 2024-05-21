@@ -20,7 +20,7 @@ LOGGER = get_logger(__name__)
 
 def run():
     st.set_page_config(
-        page_title="Applied Cryptography: Cryptographic Application",
+        page_title="Applied Cryptography: Cryptogaphic Application",
         page_icon="🔐",
     )
 
